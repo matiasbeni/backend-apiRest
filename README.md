@@ -52,7 +52,7 @@ GET /api/admin → ruta protegida (ADMIN)
 
 Las rutas protegidas requieren token JWT:
 
-Authorization: Bearer TU_TOKEN
+Authorization: Bearer token
                                                       Testing
 
 Se puede probar con Postman o Thunder Client.
